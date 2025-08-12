@@ -1,0 +1,87 @@
+{
+  "name": "aradabingo",
+  "version": "0.1.0",
+  "homepage": "https://ensaq.et/",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron .",
+    "build": "webpack --mode production",
+    "electron-dev": "electron .",
+    "react-dev": "react-scripts start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.1",
+    "@fortawesome/free-solid-svg-icons": "^6.2.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "apexcharts": "^3.48.0",
+    "atob": "^2.1.2",
+    "axios": "^1.2.1",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^5.2.3",
+    "concurrently": "^8.2.2",
+    "cors": "^2.8.5",
+    "dom-to-image": "^2.6.0",
+    "downloadjs": "^1.4.7",
+    "electron-packager": "^17.1.2",
+    "express": "^4.19.2",
+    "html-to-image": "^1.11.3",
+    "pako": "^2.1.0",
+    "react": "^18.2.0",
+    "react-accordion": "^0.3.0",
+    "react-apexcharts": "^1.4.1",
+    "react-awesome-watermark": "^1.0.3",
+    "react-bootstrap": "^2.7.0",
+    "react-color": "^2.19.3",
+    "react-contenteditable": "^3.3.6",
+    "react-dom": "^18.2.0",
+    "react-draggable": "^4.4.5",
+    "react-form-elements": "^4.14.1",
+    "react-image-file-resizer": "^0.4.8",
+    "react-paginate": "^8.1.4",
+    "react-query": "^3.39.3",
+    "react-redux": "^8.0.5",
+    "react-resizable": "^3.0.4",
+    "react-router-dom": "^6.6.1",
+    "react-scripts": "5.0.1",
+    "react-share": "^4.4.1",
+    "react-slideshow-image": "^4.1.1",
+    "react-toastify": "^9.1.2",
+    "react-twilio": "^0.0.4",
+    "reactstrap": "^9.1.5",
+    "redux": "^4.2.0",
+    "sql.js": "^1.10.3",
+    "sweetalert": "^2.1.2",
+    "web-vitals": "^2.1.0",
+    "zlib": "^1.0.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teshie/fasilbingo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teshie/fasilbingo/issues"
+  },
+  "devDependencies": {
+    "electron": "^37.2.6"
+  }
+}
