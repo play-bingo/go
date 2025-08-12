@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaradabingo=self.webpackChunkaradabingo||[]).push([[8510],{8510:function(a,e,c){a.exports=c.p+"static/media/b12.808cbe8ae8a0cd3e3958.mp3"}}]);
