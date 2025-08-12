@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaradabingo=self.webpackChunkaradabingo||[]).push([[5811],{15811:function(a,e,b){a.exports=b.p+"static/media/bingoo.aebbf838d91d8dcc2f63.jpg"}}]);

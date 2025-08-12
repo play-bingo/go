@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaradabingo=self.webpackChunkaradabingo||[]).push([[4633],{44633:function(n,a,e){e.r(a);e(47313);var r=e(85554),i=e(46417);a.default=function(){(0,r.v9)((function(n){return n.played}));return(0,i.jsx)("div",{children:(0,i.jsx)("div",{children:"Jackpot"})})}}}]);

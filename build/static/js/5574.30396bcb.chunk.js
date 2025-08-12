@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaradabingo=self.webpackChunkaradabingo||[]).push([[5574],{15574:function(a,e,s){a.exports=s.p+"static/media/board.json.31d6cfe0d16ae931b73c.txt"}}]);
