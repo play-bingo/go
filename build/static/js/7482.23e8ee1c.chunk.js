@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaradabingo=self.webpackChunkaradabingo||[]).push([[7482],{17482:function(n,e,r){r.r(e);r(47313);var a=r(46417);e.default=function(n){var e=n.calledNumbers;return(0,a.jsxs)("div",{children:[(0,a.jsx)("h2",{children:"Called Numbers"}),(0,a.jsx)("ul",{children:e.map((function(n,e){return(0,a.jsx)("button",{children:n},e)}))})]})}}}]);
